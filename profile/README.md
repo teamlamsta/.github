@@ -4,7 +4,7 @@ Lamsta is a dynamic technology company that is rapidly growing, driven by its co
 
 ## What we do
 
-We develop software solutions that help businesses and individuals to be more productive, efficient, and successful. Our solutions are based on the latest technologies and are designed to be user-friendly and easy to use.
+We develop software solutions that help organizations and individuals to be more productive, efficient, and successful. Our solutions are based on the latest technologies and are designed to be user-friendly and easy to use.
 
 ## Our product
 
