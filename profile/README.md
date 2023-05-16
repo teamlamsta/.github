@@ -6,9 +6,9 @@ Lamsta is a dynamic technology company that is rapidly growing, driven by its co
 
 We develop software solutions that help businesses and individuals to be more productive, efficient, and successful. Our solutions are based on the latest technologies and are designed to be user-friendly and easy to use.
 
-## Our products
+## Our product
 
-Our priamry product is eventsradar, a platform designed to list events happening on a campus or within a community, keeping users updated about the latest programs, activities,
+Our primary product is eventsradar, a platform designed to list events happening on a campus or within a community, keeping users updated about the latest programs, activities,
 and events nearby. It provides a comprehensive and user-friendly interface for discovering and joining events seamlessly, allowing users to easily find and attend events that 
 interest them. Organizations can create profiles and host events, enabling them to showcase their activities, engage with their audience, and increase outreach. With dedicated 
 profiles for organizations, Events Radar serves as a centralized hub for event planning and promotion, fostering a vibrant and connected community.
