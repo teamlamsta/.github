@@ -15,4 +15,4 @@ profiles for organizations, Events Radar serves as a centralized hub for event p
 
 Our website : [eventsradar.in](https://www.eventsradar.in/)
 
-<a href="https://www.linkedin.com/company/lamsta/"><img src="https://raw.githubusercontent.com/teamlamsta/.github/main/linkedin.png" height=10rem width=10rem></a>
+<a href="https://www.linkedin.com/company/lamsta/"><img src="https://raw.githubusercontent.com/teamlamsta/.github/main/linkedin.png" height=30rem width=30rem></a>
