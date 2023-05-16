@@ -1,4 +1,4 @@
-# Lamsta
+<img src="https://raw.githubusercontent.com/teamlamsta/.github/main/lamsta_banner_2_1.png">
 
 Lamsta is a dynamic technology company that is rapidly growing, driven by its commitment to developing innovative software solutions that cater to the modern needs of businesses and individuals alike.
 
